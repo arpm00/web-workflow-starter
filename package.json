@@ -1,0 +1,45 @@
+{
+  "name": "web-workflow-starter",
+  "version": "1.0.0",
+  "description": "Web development starter kit.",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Allan Ronald",
+  "license": "ISC",
+  "dependencies": {
+    "jquery": "^3.4.1",
+    "jquery-smooth-scroll": "^2.2.0",
+    "lazysizes": "^5.1.2",
+    "normalize.css": "^8.0.1",
+    "picturefill": "^3.0.3",
+    "waypoints": "^4.0.1"
+  },
+  "devDependencies": {
+    "autoprefixer": "^9.7.0",
+    "babel-core": "^6.26.3",
+    "babel-loader": "^8.0.6",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-latest": "^6.24.1",
+    "browser-sync": "^2.26.7",
+    "del": "^5.1.0",
+    "gulp": "^4.0.2",
+    "gulp-cssnano": "^2.1.3",
+    "gulp-file-include": "^2.1.0",
+    "gulp-imagemin": "^6.1.1",
+    "gulp-postcss": "^8.0.0",
+    "gulp-rev": "^9.0.0",
+    "gulp-svg2png": "^2.0.2",
+    "gulp-uglify-es": "^2.0.0",
+    "gulp-usemin": "^0.3.30",
+    "gulp-watch": "^5.0.1",
+    "postcss-hexrgba": "^2.0.0",
+    "postcss-import": "^12.0.1",
+    "postcss-mixins": "^6.2.2",
+    "postcss-nested": "^4.1.2",
+    "postcss-simple-vars": "^5.0.2",
+    "webpack": "^4.41.2",
+    "webpack-stream": "^5.2.1"
+  }
+}
